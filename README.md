@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu pathak
 - 👀 I’m interested in ...Web development & Andriod development
-- 🌱 I’m currently learning ... Kotlin language & Front_end Developer
+- 🌱 I’m currently learning ... Front_end Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 priyanshupathak444@gmail.com
